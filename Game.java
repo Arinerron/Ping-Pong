@@ -1,4 +1,4 @@
-package com.edu4java.minitennis6;
+package com.arinerron.games.pong;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
