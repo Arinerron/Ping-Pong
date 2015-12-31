@@ -13,16 +13,16 @@ import javax.swing.JPanel;
 @SuppressWarnings("serial")
 public class Game extends JPanel {
 
-	static int x = 0;
-	static int y = 0;
-	int xa = 1;
-	static int ya = 1;
-	static int bx = 100;
-	static int ax = 0;
-	int by = getHeight() - 350;
+	private static int x = 0;
+	private static int y = 0;
+	private int xa = 1;
+	private static int ya = 1;
+	private static int bx = 100;
+	private static int ax = 0;
+	private int by = getHeight() - 350;
 	private static int mouseX;
 	private int choice1;
-	static int dead = 0;
+	private static int dead = 0;
 	private static int choice2;
 	private static int speed;
 	private static int choice3;
