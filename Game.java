@@ -1,4 +1,4 @@
-package com.arinerron.games.pong;
+package com.arinerron.games.pingpong;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
