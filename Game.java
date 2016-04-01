@@ -39,7 +39,7 @@ public class Game extends JPanel {
 		}
 		
 		x = x + xa;
-		y = y + ya;
+	y = y + ya;
 	}
 	
 	private void gameOver() {
